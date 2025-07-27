@@ -1,0 +1,17 @@
+{
+  "name": "-exam-automating-workflow-with-git-hooks-and-cicd-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --check ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "prettier": "^3.6.2"
+  }
+}
