@@ -14,6 +14,6 @@ describe("Calculator functions", () => {
   });
 
   test("this test should intentionally fail for demonstration", () => {
-    expect(add(1, 1)).toBe(3);
+    expect(add(1, 1)).toBe(2);
   });
 });
